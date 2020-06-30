@@ -1,0 +1,79 @@
+[
+ {
+   "Sindrome": "Ornitofilia",
+   "Colores llamativos": 1,
+   "Flores tubulares": 1,
+   "Otras formas de flores": 0,
+   "Néctar": 1,
+   "COVs": 0,
+   "Guias de néctar": 0,
+   "Termogénesis": 0,
+   "Diurno": 1
+ },
+ {
+   "Sindrome": "Quiropterofilia",
+   "Colores llamativos": 0,
+   "Flores tubulares": 0,
+   "Otras formas de flores": 1,
+   "Néctar": 1,
+   "COVs": 1,
+   "Guias de néctar": 0,
+   "Termogénesis": 0,
+   "Diurno": 0
+ },
+ {
+   "Sindrome": "Melitofilia",
+   "Colores llamativos": 1,
+   "Flores tubulares": 1,
+   "Otras formas de flores": 1,
+   "Néctar": 1,
+   "COVs": 0,
+   "Guias de néctar": 1,
+   "Termogénesis": 0,
+   "Diurno": 1
+ },
+ {
+   "Sindrome": "Miofilia",
+   "Colores llamativos": 0,
+   "Flores tubulares": 0,
+   "Otras formas de flores": 0,
+   "Néctar": 1,
+   "COVs": 1,
+   "Guias de néctar": 0,
+   "Termogénesis": 0,
+   "Diurno": 1
+ },
+ {
+   "Sindrome": "Psicofilia",
+   "Colores llamativos": 1,
+   "Flores tubulares": 1,
+   "Otras formas de flores": 0,
+   "Néctar": 1,
+   "COVs": 0,
+   "Guias de néctar": 0,
+   "Termogénesis": 0,
+   "Diurno": 1
+ },
+ {
+   "Sindrome": "Falenolofilia",
+   "Colores llamativos": 0,
+   "Flores tubulares": 1,
+   "Otras formas de flores": 0,
+   "Néctar": 1,
+   "COVs": 1,
+   "Guias de néctar": 0,
+   "Termogénesis": 0,
+   "Diurno": 0
+ },
+ {
+   "Sindrome": "Cantarofilia",
+   "Colores llamativos": 0,
+   "Flores tubulares": 0,
+   "Otras formas de flores": 1,
+   "Néctar": 0,
+   "COVs": 1,
+   "Guias de néctar": 0,
+   "Termogénesis": 1,
+   "Diurno": 0
+ }
+]
