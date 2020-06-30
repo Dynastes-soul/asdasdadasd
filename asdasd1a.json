@@ -1,0 +1,12 @@
+{
+	"file": "https://github.com/Dynastes-soul/asdasdadasd/blob/master/sindom.csv",
+	"name": "Sindromes de polinización ",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [{"type": "id", "index": 0, "name": "Sindromes"} 
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 9 }
+	]
+}
